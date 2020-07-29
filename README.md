@@ -4,11 +4,11 @@ I am a system admin turned to  software developement. I have a passion for learn
 **Primarly focused on full stack developement :**
 *JavaScript*,
 *Python*
-
-<div style="float:left">
+<div>
+<div style="float:left; width=50%">
 <img alt="sketch of me" src="https://github.com/premdevapp/premdevapp/blob/master/images/prem.png">
 </div>
-<div style="float:right">
+<div style="float:right; width=50%">
 <dl>
   <dt>First Term</dt>
   <dd>This is the definition of the first term.</dd>
@@ -16,7 +16,7 @@ I am a system admin turned to  software developement. I have a passion for learn
   <dd>This is one definition of the second term. </dd>
   <dd>This is another definition of the second term.</dd>
 </dl>
-
+</div>
 </div>
 
 
