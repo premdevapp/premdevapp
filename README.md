@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">This is Premnath, here to learn👋👋👋</h1>
 I am a system admin turned to  software developement. I have a passion for learning and teaching new skills its refreshing.
 
 **Primarly focused on full stack developement :**
