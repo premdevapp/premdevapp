@@ -6,6 +6,9 @@ I am a system admin turned to  software developement. I have a passion for learn
 *Python*
 
 
+[![sketch of me](prem.png)](https://github.com/premdevapp)
+
+
 <!--
 **premdevapp/premdevapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
