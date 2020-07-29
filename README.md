@@ -6,15 +6,17 @@ I am a system admin turned to  software developement. I have a passion for learn
 *Python*
 
 <div style="float:left">
-![sketch of me](https://github.com/premdevapp/premdevapp/blob/master/images/prem.png)
+<img alt="sketch of me" src="https://github.com/premdevapp/premdevapp/blob/master/images/prem.png">
 </div>
 <div style="float:right">
-First Term
-: This is the definition of the first term.
+<dl>
+  <dt>First Term</dt>
+  <dd>This is the definition of the first term.</dd>
+  <dt>Second Term</dt>
+  <dd>This is one definition of the second term. </dd>
+  <dd>This is another definition of the second term.</dd>
+</dl>
 
-Second Term
-: This is one definition of the second term.
-: This is another definition of the second term.
 </div>
 
 
