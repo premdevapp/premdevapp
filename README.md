@@ -5,10 +5,10 @@ I am a system admin turned to  software developement. I have a passion for learn
 *JavaScript*,
 *Python*
 <div>
-<div style="float:left; width:50%">
+<div align="left" width="50%">
 <img style="width:100%" alt="sketch of me" src="https://github.com/premdevapp/premdevapp/blob/master/images/prem.png">
 </div>
-<div style="float:right; width:45%">
+<div  align="right" width="45%">
 <dl>
   <dt>First Term</dt>
   <dd>This is the definition of the first term.</dd>
