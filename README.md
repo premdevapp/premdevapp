@@ -6,7 +6,7 @@ I am a system admin turned to  software developement. I have a passion for learn
 *Python*
 
 
-![sketch of me](./images/prem.png)
+![sketch of me](https://github.com/premdevapp/premdevapp/blob/master/images/prem.png)
 
 
 <!--
