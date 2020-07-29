@@ -7,6 +7,12 @@ I am a system admin turned to  software developement. I have a passion for learn
 
 
 ![sketch of me](https://github.com/premdevapp/premdevapp/blob/master/images/prem.png)
+First Term
+: This is the definition of the first term.
+
+Second Term
+: This is one definition of the second term.
+: This is another definition of the second term.
 
 
 <!--
