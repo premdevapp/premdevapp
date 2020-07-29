@@ -23,3 +23,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+    <a href="https://www.facebook.com/Premnathdashanddaring"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a><br>
+    <a href="https://twitter.com/premnath_be"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a><br>
+    <a href="https://www.linkedin.com/in/premnath-p-2825691aa"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+</p>
