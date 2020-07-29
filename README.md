@@ -1,6 +1,11 @@
 ## Hi there 👋
 I am a system admin turned to  software developement. I have a passion for learning and teaching new skills its refreshing.
 
+*Primarly focused on full stack developement*
+**JavaScript** 
+**Python** 
+
+
 <!--
 **premdevapp/premdevapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
