@@ -5,10 +5,9 @@ I am a system admin turned to  software developement. I have a passion for learn
 *JavaScript*,
 *Python*
 <div>
-<div align="left" width="50%">
-<img style="width:100%" alt="sketch of me" src="https://github.com/premdevapp/premdevapp/blob/master/images/prem.png">
-</div>
-<div  align="right" width="45%">
+
+<img  align="left" width="50%" alt="sketch of me" src="https://github.com/premdevapp/premdevapp/blob/master/images/prem.png">
+
 <dl>
   <dt>First Term</dt>
   <dd>This is the definition of the first term.</dd>
@@ -16,7 +15,7 @@ I am a system admin turned to  software developement. I have a passion for learn
   <dd>This is one definition of the second term. </dd>
   <dd>This is another definition of the second term.</dd>
 </dl>
-</div>
+
 </div>
 
 
