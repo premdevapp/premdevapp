@@ -6,7 +6,7 @@ I am a system admin turned to  software developement. I have a passion for learn
 *Python*
 <div>
 
-<img  align="left" width="50%" alt="sketch of me" src="https://github.com/premdevapp/premdevapp/blob/master/images/prem.png">
+<img  align="left" width="50%" height="360px" alt="sketch of me" src="https://github.com/premdevapp/premdevapp/blob/master/images/prem.png">
 
 <dl>
   <dt>First Term</dt>
