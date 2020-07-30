@@ -9,11 +9,11 @@ I am a system admin turned to  software developement. I have a passion for learn
 <img  align="left" width="50%" height="360px" alt="sketch of me" src="https://github.com/premdevapp/premdevapp/blob/master/images/prem.png">
 
 <dl>
-  <dt>First Term</dt>
-  <dd>This is the definition of the first term.</dd>
-  <dt>Second Term</dt>
-  <dd>This is one definition of the second term. </dd>
-  <dd>This is another definition of the second term.</dd>
+  <dt>I am here </dt>
+  <dd>🌱to learn from you guys.</dd>
+  <dt>I love to </dt>
+  <dd>💬Coding and make friends with every github user.</dd>
+  <dd>🤔learning new technology.</dd>
 </dl>
 
 </div>
