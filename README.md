@@ -39,5 +39,5 @@ Here are some ideas to get you started:
     <a href="https://www.facebook.com/Premnathdashanddaring"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
     <a href="https://twitter.com/premnath_be"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
     <a href="https://www.linkedin.com/in/premnath-p-2825691aa"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/>
-    <a href="https://www.linkedin.com/in/premnath-p-2825691aa"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/>
+    <a href="https://premdevapp.github.io"><img src="https://img.icons8.com/color/96/000000/domain--v1.png" alt="linkedin"/>
 </p>
